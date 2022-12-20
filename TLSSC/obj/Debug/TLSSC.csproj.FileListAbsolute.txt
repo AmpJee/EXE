@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\PROJECT\Visual STD\TLSSC\TLSSC\bin\Debug\TLSSC.exe.config
+C:\Users\user\Desktop\PROJECT\Visual STD\TLSSC\TLSSC\bin\Debug\TLSSC.exe
+C:\Users\user\Desktop\PROJECT\Visual STD\TLSSC\TLSSC\bin\Debug\TLSSC.pdb
+C:\Users\user\Desktop\PROJECT\Visual STD\TLSSC\TLSSC\obj\Debug\TLSSC.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\PROJECT\Visual STD\TLSSC\TLSSC\obj\Debug\TLSSC.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\PROJECT\Visual STD\TLSSC\TLSSC\obj\Debug\TLSSC.Form1.resources
+C:\Users\user\Desktop\PROJECT\Visual STD\TLSSC\TLSSC\obj\Debug\TLSSC.Properties.Resources.resources
+C:\Users\user\Desktop\PROJECT\Visual STD\TLSSC\TLSSC\obj\Debug\TLSSC.csproj.GenerateResource.cache
+C:\Users\user\Desktop\PROJECT\Visual STD\TLSSC\TLSSC\obj\Debug\TLSSC.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PROJECT\Visual STD\TLSSC\TLSSC\obj\Debug\TLSSC.exe
+C:\Users\user\Desktop\PROJECT\Visual STD\TLSSC\TLSSC\obj\Debug\TLSSC.pdb
